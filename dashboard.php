@@ -5,7 +5,7 @@
 				* 	@file 				View for dashboard-page
 				* 	@author 			Tilo Krohn <tilo@dieFirma.de>
 				* 	@copyright 			dieFirma
-				* 	@lastmodifydate 	2021-09-24
+				* 	@lastmodifydate 	
 				*
 				*/
 								
